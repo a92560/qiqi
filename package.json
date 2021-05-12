@@ -15,7 +15,7 @@
     "bootstrap": "^4.3.1",
     "element-ui": "^2.8.2",
     "mint-ui": "^2.2.13",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "vue": "^2.5.2",
     "vue-msgbox": "^0.2.14",
     "vue-router": "^3.0.1",
